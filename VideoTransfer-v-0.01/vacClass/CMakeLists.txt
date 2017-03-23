@@ -1,0 +1,4 @@
+ADD_SUBDIRECTORY(vacMainInterface)
+ADD_SUBDIRECTORY(vacVideoTransfer)
+ADD_SUBDIRECTORY(vacMessageTransfer)
+ 
